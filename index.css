@@ -1,0 +1,28 @@
+h1 {
+  /* Sets the text color to blue */
+  color: blue;
+  /* Centers the text within the element */
+  text-align: center;
+}
+
+/* Selects elements with the class "container" */
+.container {
+  /* Sets the width of the element */
+  width: 80%;
+  /* Centers the block element horizontally on the page */
+  margin: 0 auto;
+  /* Adds padding around the content */
+  padding: 20px;
+  /* Sets a solid border */
+  border: 1px solid black;
+  /* Changes the background color */
+  background-color: #f0f0f0;
+}
+
+/* Selects elements with the ID "main-title" */
+#main-title {
+  /* Changes the font size */
+  font-size: 2em;
+  /* Adds a shadow effect */
+  text-shadow: 2px 2px 4px #aaa;
+}
