@@ -26,7 +26,7 @@ pipeline {
      stage('Deploy') {
       steps{
         echo 'Deploying the application'
-        sh 'echo "Website CI pipeline executed successfully!"
+        sh 'echo "Website CI pipeline executed successfully!"'
       }
     }
   }
